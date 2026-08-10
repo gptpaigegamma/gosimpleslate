@@ -1,0 +1,12 @@
+{
+  "name": "user-agent-parser-8f3298",
+  "version": "1.0.0",
+  "description": "A user-agent-parser utility",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node --watch index.js"
+  },
+  "keywords": ["user-agent-parser", "utility"],
+  "license": "MIT"
+}
